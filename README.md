@@ -5,4 +5,6 @@ Using collaborative filtering, this code can take in one single book name and re
 Also includes a k-fold cross validation test which tests based on the initial dataset. 
 Highest accuracy achieved is around 77.76%.
 
+IMPORTANT: Latest working codes are the project7.py, project62.py, and project61.py files, each representing slightly different classifiers.
+
 Utilizes: Python 2.7(csv library)
